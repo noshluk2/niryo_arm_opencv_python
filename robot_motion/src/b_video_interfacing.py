@@ -1,5 +1,8 @@
 #!/usr/bin/env python3
-
+'''
+This Scripts is to interface opencv with cmaera feed from ros gazebo simulation'
+- you can use all opencv functions in callback functions to process video
+'''
 import rospy
 from sensor_msgs.msg import Image
 from cv_bridge import CvBridge

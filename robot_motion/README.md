@@ -23,3 +23,7 @@
 - sudo apt-get install ros-noetic-tf2-web-republisher
 - sudo apt-get install ros-noetic-joint-trajectory-controller
 - sudo apt-get install ros-noetic-effort-controllers
+
+## Remaning
+- Moveit Groups Pipeline
+- Pyniryo integeration

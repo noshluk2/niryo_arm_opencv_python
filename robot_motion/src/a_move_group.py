@@ -1,4 +1,18 @@
 #!/usr/bin/env python3
+"""
+> Intro :
+This script is executed after gazebo simulation is running . It contains two options
+- Sending Joint Angles to each joint Individually
+- Sending XYZ position and robot end effector reaches it automatically
+
+> Usage :
+Change self.group_name so that specific group start to change joint values
+- Options are arm and tool
+
+- uncomment from main function to see robot motion the desired function
+"""
+
+
 from __future__ import print_function
 
 import sys
