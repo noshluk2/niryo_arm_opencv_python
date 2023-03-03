@@ -1,1 +1,0 @@
-# niryo_arm_opencv_python
